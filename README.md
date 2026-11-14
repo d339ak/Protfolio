@@ -1,19 +1,19 @@
 # Protfolio
 My Public Protfolio
 
-Qualifications:
----------------
-- Bachelors in App. Science Information Technology (Awarded Distinction) – RMIT University
-- Advanced Diploma Information Technology (Awarded Distinction) – TAFE South Australia
-- Diploma in Information Technology (Awarded Distinction) – DMIT TAFE South Australia
-- Certificate II, III and IV in Information Technology – DMIT TAFE South Australia
-
 Awards / Competitions:
 ----------------------
 - Best Project Award by ExpertsHub India in: Drone Design and Development (total 11 Teams participated, engineers approx 8 in each team)
 - Best Student Award by ExpertsHub India in: Drone Design and Development (total 60 engineers participated)
 - Awarded Distinction by RMIT University Australia in Bachelors in Information Technology 
 - Awarded Distinction by Tafe South Australia in Advanced Diploma and Diploma in Information Technology
+
+Qualifications:
+---------------
+- Bachelors in App. Science Information Technology (Awarded Distinction) – RMIT University
+- Advanced Diploma Information Technology (Awarded Distinction) – TAFE South Australia
+- Diploma in Information Technology (Awarded Distinction) – DMIT TAFE South Australia
+- Certificate II, III and IV in Information Technology – DMIT TAFE South Australia
 
 Certifications:
 ---------------
