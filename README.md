@@ -14,6 +14,13 @@ Qualifications:
 - Diploma in Information Technology (Awarded Distinction) – DMIT TAFE South Australia
 - Certificate II, III and IV in Information Technology – DMIT TAFE South Australia
 
+Awards / Competitions:
+----------------------
+- Best Project Award by ExpertsHub India in: Drone Design and Development (out of a total 11 Teams participating, engineers approx 8 in each team)
+- Best Student Award by ExpertsHub India in: Drone Design and Development (out of a total 60 engineers participating)
+- Awarded Distinction by RMIT University Australia in Bachelors in Information Technology 
+- Awarded Distinction by Tafe South Australia in Advanced Diploma and Diploma in Information Technology
+
 Certifications:
 ---------------
 - Chainlink Fundamentals aqchievement by Cyfrin Updraft 2026
