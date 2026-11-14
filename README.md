@@ -10,9 +10,9 @@ Qualifications:
 
 Certifications:
 ---------------
-- Chainlink Fundamentals Achievement by Cyfrin Updraft 2026
+- Chainlink Fundamentals aqchievement by Cyfrin Updraft 2026
 - Solidity Smart Contract Development achievement by Cyfrin Updraft 2026
-- Blockchain Basics Achievement by Cyfrin Updraft 2026
+- Blockchain Basics achievement by Cyfrin Updraft 2026
 - Version Contorl by Meta 2026
 - Google Certified: Google AI Professional Certificate 2026
 - Microsoft Certified: Power Platform Fundamentals 2026
