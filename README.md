@@ -1,12 +1,6 @@
 # Protfolio
 My Public Protfolio
 
-Contact Details:
-----------------
-- Email: d339ak@outlook.com
-- Twitter: @d339ak
-- Mobile: +61 431 695 329
-
 Qualifications:
 ---------------
 - Bachelors in App. Science Information Technology (Awarded Distinction) – RMIT University
@@ -161,4 +155,10 @@ Clients include:
 - Powercor (Australia)
   Completed Business Analysis and developed Business Requirements Documents for the Customer Details Notification System. Performed Business Analysis on the already developed Meter Data Management System and
   produced a Change Document for the development of an Online Help file. Developed a proof-of-concept ‘Help file’ for the same.
+
+Contact Details:
+----------------
+- Email: d339ak@outlook.com
+- Twitter: @d339ak
+- Mobile: +61 431 695 329
 
