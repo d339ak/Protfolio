@@ -3,7 +3,7 @@ My Public Protfolio
 
 Awards / Competitions:
 ----------------------
-- Best Project Award by ExpertsHub India in: Drone Design and Development (total 11 Teams participated, engineers approx 7-8 in each team)
+- Best Project Award by ExpertsHub India in: Drone Design and Development (total 11 Teams participated, engineers approx 8 in each team)
 - Best Student Award by ExpertsHub India in: Drone Design and Development (total 70 engineers participated)
 - Awarded Distinction by RMIT University Australia in Bachelors in Information Technology 
 - Awarded Distinction by Tafe South Australia in Advanced Diploma and Diploma in Information Technology
