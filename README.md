@@ -3,10 +3,10 @@ My Public Protfolio
 
 Qualifications:
 ---------------
-Bachelors in App. Science Information Technology (Awarded Distinction) – RMIT University
-Advanced Diploma Information Technology (Awarded Distinction) – TAFE South Australia
-Diploma in Information Technology (Awarded Distinction) – DMIT TAFE South Australia
-Certificate II, III and IV in Information Technology – DMIT TAFE South Australia
+- Bachelors in App. Science Information Technology (Awarded Distinction) – RMIT University
+- Advanced Diploma Information Technology (Awarded Distinction) – TAFE South Australia
+- Diploma in Information Technology (Awarded Distinction) – DMIT TAFE South Australia
+- Certificate II, III and IV in Information Technology – DMIT TAFE South Australia
 
 Certifications:
 ---------------
