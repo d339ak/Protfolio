@@ -65,7 +65,9 @@ Business Intelligence, Data Warehousing / Mining / Cleansing, MDM Solutions, ETL
 
 OS: 
 MS Windows; iOS; Unix & Linux like OS (Fedora, Red hat, Centos, Ubuntu, etc.)
-Technology Platforms: MS SQL Server; MS Visual Studio; MS SharePoint; Google Analytics; MS Share Point; MS Visio; Oracle; Toad; Rational Rose; J-builder; Borland C/C++; VMware; Citrix; Microsoft Hyper-V; Tibco; MS Project, Web Methods, Ultracs, Cadencie, PEGA, LifeRay, Puppet, Jenkins, Kubernetes, Docker, AWS, Azure
+
+Technology Platforms: 
+MS SQL Server; MS Visual Studio; MS SharePoint; Google Analytics; MS Share Point; MS Visio; Oracle; Toad; Rational Rose; J-builder; Borland C/C++; VMware; Citrix; Microsoft Hyper-V; Tibco; MS Project, Web Methods, Ultracs, Cadencie, PEGA, LifeRay, Puppet, Jenkins, Kubernetes, Docker, AWS, Azure
 
 Technologies: 
 Dot NET Architecture; Sql Server Architecture; SharePoint Architecture; SSIS, SSRS, SSAS; ASP.NET; C#.NET; VB.NET; F#.NET; AJAX; MVC, MVVC, Silver Light; XML; JSON; JQuery, JavaScript; VBScript; HTML; CSS; ASP; PHP; C; C++; Objective C; Java; Visual Basic (VB/VBA); SQL; T-SQL; PL/SQL; UML; Perl; Python; Shell scripting; NetScaler/ F5 / Google Load Balancers; Bankfast systems; Ctrl-M; Jenkins CI/CD; Atlassian JIRA; Foswiki.
