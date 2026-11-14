@@ -17,7 +17,7 @@ Qualifications:
 
 Certifications:
 ---------------
-- Chainlink Fundamentals aqchievement by Cyfrin Updraft 2026
+- Chainlink Fundamentals achievement by Cyfrin Updraft 2026
 - Solidity Smart Contract Development achievement by Cyfrin Updraft 2026
 - Blockchain Basics achievement by Cyfrin Updraft 2026
 - Version Contorl by Meta 2026
