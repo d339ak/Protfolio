@@ -10,45 +10,45 @@ Qualifications:
 
 Certifications:
 ---------------
-Chainlink Fundamentals Achievement by Cyfrin Updraft 2026
-Solidity Smart Contract Development achievement by Cyfrin Updraft 2026
-Blockchain Basics Achievement by Cyfrin Updraft 2026
-Version Contorl by Meta 2026
-Google Certified: Google AI Professional Certificate 2026
-Microsoft Certified: Power Platform Fundamentals 2026
-Microsoft Certified: Security, Compliance and Identity Fundamentals 2026
-Microsoft Certified: Azure AI Fundamentals 2026
-Microsoft Certified: Azure Data Fundamentals 2025
-AWS Innovate 2024 / 2023 / 2022: Certificate of Attendance
-Microsoft (MS) Certified Specialist: Developing Windows Azure and Web Services
-PCI DSS for Merchants 2022-2023 Course: Certificate of Completion: CampusGuard
-MCSE: Microsoft Certified Solutions Expert – Business Intelligence
-MCSE: Microsoft Certified Solutions Expert – Data Platform SQL Server
-MCSD: Microsoft Certified Solutions Developer – Web Applications .NET
-MCSA: Microsoft Certified Solutions Associate – SQL Server 2012 Charter Member
-MCAD: Dot Net Application Development Foundation
-MCTS: Microsoft Certified Technology Specialist SharePoint 2010 Application Development
-MCTS: Microsoft Certified Technology Specialist SQL Server 2005
-MOS: MS Certified Office Expert – 2010
-MOS: MS Certified Office Specialist – 2003
-MS Certified Specialist: Programming in HTML5 with JavaScript and CSS3
-MS Certified Specialist: Programming in C# 5.0
-MS Certified Specialist: Developing ASP.NET 4.5 MVC Web Applications
-MS Certified Querying Microsoft SQL Server 2012
-MS Certified Administering Microsoft SQL Server 2012 Databases
-MS Certified Implementing a Data Warehouse with Microsoft SQL Server 2012
-MS Certified Developing Microsoft SQL Server 2012 Databases
-MS Certified Designing Database Solutions for SQL Server 2012
-MS Certified Implementing Data Models and Reports with Microsoft SQL Server 2012
-MS Certified Designing Business Intelligence Solutions with Microsoft SQL Server 2012
-MS Certified Developing and Implementing Web Applications with Visual C# & VS.NET
-MS Certified Developing XML WebServices & Server Components in.NET
-MS Certified Designing and Implementing Databases SQL Server 2000 Enterprise Edition
-MS Certified in Microsoft Project / Word / PowerPoint / Excel
-MS Certified Trainer
-Sun Certified Java Programmer
-Certificate of Excellence: Drone Design and Development 2019 (Best Project & Best Student Awards)
-Prince 2 Certified Project Manager (Foundation)
+- Chainlink Fundamentals Achievement by Cyfrin Updraft 2026
+- Solidity Smart Contract Development achievement by Cyfrin Updraft 2026
+- Blockchain Basics Achievement by Cyfrin Updraft 2026
+- Version Contorl by Meta 2026
+- Google Certified: Google AI Professional Certificate 2026
+- Microsoft Certified: Power Platform Fundamentals 2026
+- Microsoft Certified: Security, Compliance and Identity Fundamentals 2026
+- Microsoft Certified: Azure AI Fundamentals 2026
+- Microsoft Certified: Azure Data Fundamentals 2025
+- AWS Innovate 2024 / 2023 / 2022: Certificate of Attendance
+- Microsoft (MS) Certified Specialist: Developing Windows Azure and Web Services
+- PCI DSS for Merchants 2022-2023 Course: Certificate of Completion: CampusGuard
+- MCSE: Microsoft Certified Solutions Expert – Business Intelligence
+- MCSE: Microsoft Certified Solutions Expert – Data Platform SQL Server
+- MCSD: Microsoft Certified Solutions Developer – Web Applications .NET
+- MCSA: Microsoft Certified Solutions Associate – SQL Server 2012 Charter Member
+- MCAD: Dot Net Application Development Foundation
+- MCTS: Microsoft Certified Technology Specialist SharePoint 2010 Application Development
+- MCTS: Microsoft Certified Technology Specialist SQL Server 2005
+- MOS: MS Certified Office Expert – 2010
+- MOS: MS Certified Office Specialist – 2003
+- MS Certified Specialist: Programming in HTML5 with JavaScript and CSS3
+- MS Certified Specialist: Programming in C# 5.0
+- MS Certified Specialist: Developing ASP.NET 4.5 MVC Web Applications
+- MS Certified Querying Microsoft SQL Server 2012
+- MS Certified Administering Microsoft SQL Server 2012 Databases
+- MS Certified Implementing a Data Warehouse with Microsoft SQL Server 2012
+- MS Certified Developing Microsoft SQL Server 2012 Databases
+- MS Certified Designing Database Solutions for SQL Server 2012
+- MS Certified Implementing Data Models and Reports with Microsoft SQL Server 2012
+- MS Certified Designing Business Intelligence Solutions with Microsoft SQL Server 2012
+- MS Certified Developing and Implementing Web Applications with Visual C# & VS.NET
+- MS Certified Developing XML WebServices & Server Components in.NET
+- MS Certified Designing and Implementing Databases SQL Server 2000 Enterprise Edition
+- MS Certified in Microsoft Project / Word / PowerPoint / Excel
+- MS Certified Trainer
+- Sun Certified Java Programmer
+- Certificate of Excellence: Drone Design and Development 2019 (Best Project & Best Student Awards)
+- Prince 2 Certified Project Manager (Foundation)
 
 Skills Summary:
 ---------------
