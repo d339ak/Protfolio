@@ -16,8 +16,8 @@ Qualifications:
 
 Awards / Competitions:
 ----------------------
-- Best Project Award by ExpertsHub India in: Drone Design and Development (out of a total 11 Teams participating, engineers approx 8 in each team)
-- Best Student Award by ExpertsHub India in: Drone Design and Development (out of a total 60 engineers participating)
+- Best Project Award by ExpertsHub India in: Drone Design and Development (total 11 Teams participated, engineers approx 8 in each team)
+- Best Student Award by ExpertsHub India in: Drone Design and Development (total 60 engineers participated)
 - Awarded Distinction by RMIT University Australia in Bachelors in Information Technology 
 - Awarded Distinction by Tafe South Australia in Advanced Diploma and Diploma in Information Technology
 
