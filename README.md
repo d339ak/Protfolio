@@ -1,6 +1,11 @@
 # Protfolio
 My Public Protfolio
 
+Contact Details:
+----------------
+Email: d339ak@outlook.com
+Mobile: +61 431 695 329
+
 Qualifications:
 ---------------
 - Bachelors in App. Science Information Technology (Awarded Distinction) – RMIT University
