@@ -5,6 +5,7 @@ Contact Details:
 ----------------
 - Email: d339ak@outlook.com
 - Mobile: +61 431 695 329
+- Twitter: @d339ak
 
 Qualifications:
 ---------------
