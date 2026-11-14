@@ -4,8 +4,8 @@ My Public Protfolio
 Contact Details:
 ----------------
 - Email: d339ak@outlook.com
+- Twitter handle: @d339ak
 - Mobile: +61 431 695 329
-- Twitter: @d339ak
 
 Qualifications:
 ---------------
